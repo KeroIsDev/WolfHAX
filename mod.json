@@ -1,0 +1,11 @@
+{
+  "DevKero": {
+    "aimbot": true,
+    "bullet": true,
+    "bypassIsland": true,
+    "bypasslogo": true,
+    "esp": true,
+    "memory": true,
+    "showall": true
+  }
+}
